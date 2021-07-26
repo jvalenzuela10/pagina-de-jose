@@ -2,8 +2,7 @@
 title: Jose Valenzuela
 role: Ph.D in Economics student
 avatar_filename: perfil.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include blah blah blah, and a lot of cool stuff
 interests:
   - Artificial Intelligence
   - Computational Linguistics
