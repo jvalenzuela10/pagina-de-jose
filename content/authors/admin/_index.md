@@ -9,8 +9,8 @@ interests:
   - Information Retrieval
 social: []
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Chile
+    url: https://econ.uchile.cl
 education:
   courses:
     - course: PhD in Economics
