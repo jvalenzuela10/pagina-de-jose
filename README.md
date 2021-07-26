@@ -42,3 +42,5 @@ To help us develop this template and software sustainably under the MIT license,
 <!--END_SECTION:news-->
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56fb6f4a-bb8c-433c-8dd0-f45d0b704219/deploy-status)](https://app.netlify.com/sites/josevalenzuela/deploys)
