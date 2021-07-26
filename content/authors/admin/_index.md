@@ -1,6 +1,6 @@
 ---
 title: Jose Valenzuela
-role: Professor of Artificial Intelligence
+role: Ph.D in Economics student
 avatar_filename: perfil.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
