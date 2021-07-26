@@ -1,6 +1,7 @@
 ---
 title: Jose Valenzuela
 role: Professor of Artificial Intelligence
+avatar_filename: perfil.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
