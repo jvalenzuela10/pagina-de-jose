@@ -50,7 +50,7 @@ doi: ""
 publication: ""
 projects:
   - example
-date: 2013-07-01T00:00:00Z
+date: 2021-07-27T01:40:23.103Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
