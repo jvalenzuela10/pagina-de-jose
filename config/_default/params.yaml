@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Classic'
 font_size: L
 
 # SEO
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: josvalenzu@fen.uchile.cl
+phone: 
 address:
   street: 450 Serra Mall
   city: Stanford
