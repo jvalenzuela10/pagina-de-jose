@@ -1,5 +1,5 @@
 ---
-title: José Valenzuela-Álvarez
+title: José Valenzuela-Álvare
 role: Ph.D in Economics student
 avatar_filename: content/authors/admin/perfil.jpg
 bio: My research interests include blah blah blah, and a lot of cool stuff
