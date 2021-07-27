@@ -19,7 +19,7 @@ abstract: "We study a labor market in which firms, when posting a job vacancy,
   market is divided in two: firms with higher willingness to pay that offer
   higher wages, and firms with lower willingness to pay that offer lower wages."
 draft: false
-featured: false
+featured: true
 tags: []
 slides: example
 url_pdf: ""
