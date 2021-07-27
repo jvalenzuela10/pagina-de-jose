@@ -16,12 +16,12 @@ education:
     - course: PhD in Economics
       institution: University of Chile
       year: 2020
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.A in Economic Analysis
+      institution: Universidad Diego Portales
+      year: 2016
+    - course: B.A in Business and Economics
+      institution: Universidad Diego Portales
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
