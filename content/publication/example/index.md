@@ -47,7 +47,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 doi: ""
-publication: In *Wowchemy Conference*
+publication: ""
 projects:
   - example
 date: 2013-07-01T00:00:00Z
