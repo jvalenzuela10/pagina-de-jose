@@ -4,9 +4,9 @@ role: Ph.D in Economics student
 avatar_filename: avatar.jpg
 bio: My research interests include blah blah blah, and a lot of cool stuff
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - SearchandMatching
+  - LabourEconomics
 social: []
 organizations:
   - name: University of Chile
