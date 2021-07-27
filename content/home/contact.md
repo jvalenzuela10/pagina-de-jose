@@ -3,11 +3,11 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+# Automatically link email and phone?
+autolink: true
+
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form: 2
