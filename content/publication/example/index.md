@@ -44,8 +44,8 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - University of Chile
+  - Universidad de los Andes
 doi: ""
 publication: ""
 projects:
