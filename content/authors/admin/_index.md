@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include blah blah blah, and a lot of cool stuff
 interests:
   - Macroeconomics
-  - SearchandMatching
-  - LabourEconomics
+  - Search and Matching
+  - Labor Economics
 social: []
 organizations:
   - name: University of Chile
