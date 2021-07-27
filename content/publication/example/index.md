@@ -1,4 +1,11 @@
 ---
+title: Transparency in Labor Markets
+publication_types:
+  - "3"
+authors:
+  - admin
+  - Nicolás Riquelme
+publication_short: ""
 abstract: "We study a labor market in which firms, when posting a job vacancy,
   have to decide whether to post a wage (transparent) or use an auction to
   determine the wage (non- transparent). Firms are heterogeneous in their
@@ -11,17 +18,15 @@ abstract: "We study a labor market in which firms, when posting a job vacancy,
   pay and for any possible belief workers may have, which implies that the labor
   market is divided in two: firms with higher willingness to pay that offer
   higher wages, and firms with lower willingness to pay that offer lower wages."
+draft: false
+featured: false
+tags: []
 slides: example
 url_pdf: ""
-publication_types:
-  - "3"
-authors:
-  - admin
-  - Nicolás Riquelme
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
 summary: "We study a labor market in which firms, when posting a job vacancy,
   have to decide whether to post a wage (transparent) or use an auction to
   determine the wage (non- transparent). Firms are heterogeneous in their
@@ -36,19 +41,15 @@ summary: "We study a labor market in which firms, when posting a job vacancy,
   higher wages, and firms with lower willingness to pay that offer lower wages."
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: Transparency in Labor Markets
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: ""
-featured: true
-tags: []
+publication: In *Wowchemy Conference*
 projects:
   - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
