@@ -26,7 +26,7 @@ url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 summary: "We study a labor market in which firms, when posting a job vacancy,
   have to decide whether to post a wage (transparent) or use an auction to
   determine the wage (non- transparent). Firms are heterogeneous in their
