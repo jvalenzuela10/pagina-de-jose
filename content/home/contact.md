@@ -1,18 +1,13 @@
----
-widget: josvalenzu@fen.uchile.cl
-widget_id: E-mail
-headless: true
-weight: 130
-title: Contact
-subtitle: null
+widget: contact
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
 content:
+  # Automatically link email and phone or display as text?
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      ? id
+  
+  # Email form provider
     netlify:
-      captcha: false
-design:
-  columns: "2"
----
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
