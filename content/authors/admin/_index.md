@@ -15,7 +15,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: University of Chile
-      year: 2020
+      year: ""
     - course: M.A in Economic Analysis
       institution: Universidad Diego Portales
       year: 2016
