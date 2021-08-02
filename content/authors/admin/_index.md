@@ -13,7 +13,7 @@ organizations:
     url: https://econ.uchile.cl
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. in Economics
       institution: University of Chile
       year: 2020
     - course: M.A in Economic Analysis
