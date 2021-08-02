@@ -1,6 +1,6 @@
 ---
 title: José Valenzuela-Álvarez
-role: Ph.D in Economics (c)
+role: Ph.D (c) in Economics
 avatar_filename: avatar.jpg
 bio: My research interests include blah blah blah, and a lot of cool stuff
 interests:
