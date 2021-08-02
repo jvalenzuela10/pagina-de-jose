@@ -15,7 +15,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: University of Chile
-      year: ""
+      year: 2022, Expected
     - course: M.A in Economic Analysis
       institution: Universidad Diego Portales
       year: 2016
