@@ -1,6 +1,6 @@
 ---
 title: José Valenzuela-Álvarez
-role: Ph.D in Economics student
+role: Ph.D in Economics (c)
 avatar_filename: avatar.jpg
 bio: My research interests include blah blah blah, and a lot of cool stuff
 interests:
@@ -26,7 +26,6 @@ email: josvalenzu@fen.uchile.cl
 superuser: true
 highlight_name: false
 ---
+I'm a Ph.D (c) in Economics in the Econ Department at University of Chile.
 
-José Valenzuela-Álvarez is a Ph.D in Economics student with interests in... 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research seeks to answer questions related to the macroeconomic effects in the labor market due to search and matching (SAM) frictions.
