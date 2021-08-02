@@ -22,7 +22,7 @@ education:
     - course: B.A in Business and Economics
       institution: Universidad Diego Portales
       year: 2015
-email: ""
+email: josvalenzu@fen.uchile.cl
 superuser: true
 highlight_name: false
 ---
